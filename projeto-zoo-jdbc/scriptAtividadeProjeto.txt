@@ -1,0 +1,31 @@
+Converter app do animais para gravar em banco de dados
+criar um novo projeto somente com as classes sobre os animais, 
+Ao cadastrar animais deverá conter data de cadastro, nascimento e em cima dessas datas estimar a idade.
+     USAR OO
+criar banco
+criar tabelas
+cria classe de conexao -> oka
+criar classe de acesso a dados -> oka
+script do banco  e o ((MER) ->oka)
+UML ->oka
+classe principal para teste
+    Consultar todos os animais cadastrados, cadastrar um novo, adicionar um dono, alterar o dono, mudar o nome do animal, poder cadastrar mais de um animal por vez, visualizar as informações de um animal apresentando o seu respectivo dono
+
+    Plus:
+     Poder adicionar um dono ao seu pet 
+
+Projeto deve ser desenvolvido individualmente
+
+Criar um pasta nesse path abaixo conforme o exemplo
+C:\workspace\capacitacao-capgemini-turmac\java-orientacao-objeto
+
+    Ex:
+        samyra_figueiredo_zoo_jdbc
+
+Obs:
+    Pode ser usado vector, matriz, arraylist, mas as implementações deveram ser feitas na mão, não iremos usar nesse momento bibliotecas externas demasiadas, pois ainda não adquirimos esse conhecimento até o momento.
+Branch
+feature/alicio.cunha_zoo 
+Individual
+
+
